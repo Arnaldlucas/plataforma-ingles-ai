@@ -38,13 +38,12 @@ Criar um jogo educativo de tradução entre inglês e português, onde os jogado
 ---
 
 ## 🛢️ Banco de Dados (Opcional para salvar progresso)
-- **Firebase Realtime Database** (se quiser uma solução em tempo real).  
+- **Firebase Realtime Database** (caso haja uma solução em tempo real).  
 - **MongoDB (NoSQL)** para armazenar palavras, traduções e progresso.  
 - **MySQL/PostgreSQL (SQL)** se precisar de mais estruturação dos dados.  
 
 ---
 
 ## 📡 APIs e Integrações (Para Melhorias Futuras)
-- **Google Translate API** (para sugestões automáticas).  
-- **Web Speech API** (para leitura em voz alta das palavras).  
+- **Google Translate API** (para sugestões automáticas).    
 - **LocalStorage/IndexedDB** (para salvar progresso offline no navegador).  
