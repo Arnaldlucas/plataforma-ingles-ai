@@ -33,7 +33,7 @@ Criar um jogo educativo de tradução entre inglês e português, onde os jogado
 
 ## 🗄️ Backend (Para futuras expansões)
 - **Node.js com Express** (para comunicação com um banco de dados).  
-- **Python com Flask/Django** (caso prefira backend em Python).  
+- **Python com Flask/Django** (caso o backend seja feito em Python).  
 
 ---
 
