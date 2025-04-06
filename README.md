@@ -4,10 +4,17 @@
 Criar um jogo educativo de tradução entre inglês e português, onde os jogadores recebem palavras/frases e precisam fornecer a tradução correta. O jogo exibe feedback imediato, pontuação e um histórico das palavras acertadas ao final de cada partida
 
 ##  Funcionalidades Principais
-✅ Exibir uma palavra/frase em inglês para ser traduzida.  
-✅ Verificar a resposta do jogador e fornecer feedback.  
-✅ Exibir um histórico de palavras traduzidas corretamente.  
-✅ Girar automaticamente entre diferentes palavras após cada resposta(se a resposta estiver certa.   
+✅ Exibir uma palavra em inglês.
+
+✅ Jogador digita a tradução em português.
+
+✅ Botão para verificar.
+
+✅ Exibir se acertou ou errou.
+
+✅ Atualizar pontuação.
+
+✅ Mostrar nova palavra após responder.
 
 ##  Possíveis Melhorias Futuras
 Modo de dificuldade (Fácil, Médio, Difícil).  
