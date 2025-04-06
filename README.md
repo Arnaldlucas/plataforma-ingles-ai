@@ -1,7 +1,7 @@
 # 1) Especificação do Sistema como um Todo
 
 ##  Objetivo
-Criar um jogo educativo de tradução entre inglês e português, onde os jogadores recebem palavras/frases e precisam fornecer a tradução correta. O jogo exibe feedback imediato, pontuação e um histórico das palavras acertadas ao fianl de cada partida
+Criar um jogo educativo de tradução entre inglês e português, onde os jogadores recebem palavras/frases e precisam fornecer a tradução correta. O jogo exibe feedback imediato, pontuação e um histórico das palavras acertadas ao final de cada partida
 
 ##  Funcionalidades Principais
 ✅ Exibir uma palavra/frase em inglês para ser traduzida.  
