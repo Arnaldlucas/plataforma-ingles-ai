@@ -10,11 +10,11 @@ Criar um jogo educativo de tradução entre inglês e português, onde os jogado
 ✅ Girar automaticamente entre diferentes palavras após cada resposta(se a resposta estiver certa.   
 
 ##  Possíveis Melhorias Futuras
-🔹 Modo de dificuldade (Fácil, Médio, Difícil).  
-🔹 Temporizador para aumentar o desafio.  
-🔹 Áudio para pronúncia das palavras.  
-🔹 Integração com banco de dados para salvar progresso.  
-🔹 Modo multiplayer ou ranking global.  
+Modo de dificuldade (Fácil, Médio, Difícil).  
+Temporizador para aumentar o desafio.  
+Áudio para pronúncia das palavras.  
+Integração com banco de dados para salvar progresso.  
+Modo multiplayer ou ranking global.  
 ---
 
 # 2) Tecnologias de Desenvolvimento
