@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+.env
+
+# Node (React)
+node_modules/
+
+# Docker
+*.pid
+*.sock
+docker-compose.override.yml
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
